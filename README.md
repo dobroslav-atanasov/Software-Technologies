@@ -27,8 +27,8 @@ PHP            | [Lab](https://github.com/dobroslav-atanasov/Software-Technologi
 Java           | [Lab](https://github.com/dobroslav-atanasov/Software-Technologies/tree/master/11.%20JavaBasicSyntax-Lab) | [Exercises](https://github.com/dobroslav-atanasov/Software-Technologies/tree/master/12.%20JavaBasicSyntax-Exercises)| [Calculator](https://github.com/dobroslav-atanasov/Software-Technologies/tree/master/13.%20Java-Calculator)| [Blog](https://github.com/dobroslav-atanasov/Software-Technologies/tree/master/14.%20Java-Blog)
 CSharp         | [Lab](https://github.com/dobroslav-atanasov/Software-Technologies/tree/master/15.%20CSharp-Lab)| [Exercises](https://github.com/dobroslav-atanasov/Software-Technologies/tree/master/17.%20CSharp-BookLibrary)| [Calculator](https://github.com/dobroslav-atanasov/Software-Technologies/tree/master/16.%20CSharp-Calculator)| [Blog](https://github.com/dobroslav-atanasov/Software-Technologies/tree/master/18.%20CSharp-Blog)
 
-[logoHTMLandCSS]: http://trickgs.com/blog/wp-content/uploads/2014/07/html_css.png "HTML5 and CSS3" 
-
+[logoHTMLandCSS1]: http://trickgs.com/blog/wp-content/uploads/2014/07/html_css.png "HTML5 and CSS3" 
+[logoHTMLandCSS]: <a href="https://softuni.bg/"><img src="http://trickgs.com/blog/wp-content/uploads/2014/07/html_css.png" alt="HTML5 and CSS3" width="400" align="center">
 > **Exams**
 
 Exams				|Date				|Descriptions																											|Solutions
