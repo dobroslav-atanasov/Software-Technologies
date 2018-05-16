@@ -21,7 +21,7 @@ SoftUni course Software Technologies - October 2017: All tasks with their soluti
 
 Language       | Labs  | Exercises | Calculators  | Blogs
 ---------------|-------|-----------|--------------|--------
-![alt text][logoHTMLandCSS]  |       | [Exercise](https://github.com/dobroslav-atanasov/Software-Technologies/tree/master/01.%20HTML5AndCSS-Exercises) |  | [Blog](https://github.com/dobroslav-atanasov/Software-Technologies/tree/master/02.%20HTML5AndCSS-Blog)
+<p align="center"><a><img src="http://trickgs.com/blog/wp-content/uploads/2014/07/html_css.png" alt="HTML5 and CSS3" width="400" align="center"></a><p>  |       | [Exercise](https://github.com/dobroslav-atanasov/Software-Technologies/tree/master/01.%20HTML5AndCSS-Exercises) |  | [Blog](https://github.com/dobroslav-atanasov/Software-Technologies/tree/master/02.%20HTML5AndCSS-Blog)
 JavaScript     | [Lab](https://github.com/dobroslav-atanasov/Software-Technologies/tree/master/03.%20JSBasicSyntax-Lab)| [Exercises](https://github.com/dobroslav-atanasov/Software-Technologies/tree/master/04.%20JSBasicSyntax-Exercises)| [Calculator](https://github.com/dobroslav-atanasov/Software-Technologies/tree/master/05.%20JavaScript-Calculator)| [Blog](https://github.com/dobroslav-atanasov/Software-Technologies/tree/master/06.%20JavaScript-Blog)
 PHP            | [Lab](https://github.com/dobroslav-atanasov/Software-Technologies/tree/master/07.%20PHPBasicSyntax-Lab) | [Exercises](https://github.com/dobroslav-atanasov/Software-Technologies/tree/master/08.%20PHPBasicSyntax-Exercises)| [Calculator](https://github.com/dobroslav-atanasov/Software-Technologies/tree/master/09.%20PHP-Calculator)| [Blog](https://github.com/dobroslav-atanasov/Software-Technologies/tree/master/10.%20PHP-Blog)
 Java           | [Lab](https://github.com/dobroslav-atanasov/Software-Technologies/tree/master/11.%20JavaBasicSyntax-Lab) | [Exercises](https://github.com/dobroslav-atanasov/Software-Technologies/tree/master/12.%20JavaBasicSyntax-Exercises)| [Calculator](https://github.com/dobroslav-atanasov/Software-Technologies/tree/master/13.%20Java-Calculator)| [Blog](https://github.com/dobroslav-atanasov/Software-Technologies/tree/master/14.%20Java-Blog)
@@ -29,6 +29,9 @@ CSharp         | [Lab](https://github.com/dobroslav-atanasov/Software-Technologi
 
 [logoHTMLandCSS1]: http://trickgs.com/blog/wp-content/uploads/2014/07/html_css.png "HTML5 and CSS3" 
 [logoHTMLandCSS]: <a href="https://softuni.bg/"><img src="http://trickgs.com/blog/wp-content/uploads/2014/07/html_css.png" alt="HTML5 and CSS3" width="400" align="center">
+
+<p align="center"><a><img src="http://trickgs.com/blog/wp-content/uploads/2014/07/html_css.png" alt="HTML5 and CSS3" width="400" align="center"></a><p>
+
 > **Exams**
 
 Exams				|Date				|Descriptions																											|Solutions
